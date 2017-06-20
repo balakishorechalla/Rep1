@@ -8,3 +8,7 @@
 20-Jun-17  09:23 AM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  318,262,181,888 bytes free
+
+Hi this is balakihsore
+wanted to become expert in automation
+
